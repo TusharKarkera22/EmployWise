@@ -15,7 +15,7 @@ A React-based user management app using the Reqres API.
 - Tailwind CSS
 
 ## Setup
-1. Clone: `git clone https://github.com/yourusername/employwise-assignment.git`
+1. Clone: `git clone https://github.com/TusharKarkera22/EmployWise.git`
 2. Install: `npm install`
 3. Run: `npm start`
 4. Visit: `http://localhost:3000`
