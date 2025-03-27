@@ -18,7 +18,7 @@ A React-based user management app using the Reqres API.
 1. Clone: `git clone https://github.com/TusharKarkera22/EmployWise.git`
 2. Install: `npm install`
 3. Run: `npm start`
-4. Visit: `http://localhost:3000`
+4. Visit: `http://localhost:5173/`
 
 ## Login
 - Email: `eve.holt@reqres.in`
